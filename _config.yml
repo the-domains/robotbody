@@ -1,0 +1,28 @@
+name: RobotBody
+favicon: null
+layout_spectrum: 0.7573241007048637
+typography_spectrum: 0.5732151698321104
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5079977966379374
+  lightness: 0.7635329428594559
+  saturation: 0.9295690541621298
+  rhythmicContrast: 0.1619855249300599
+purpose: []
