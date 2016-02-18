@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[RobotBody]]></title>
         <description><![CDATA[RobotBody]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/robotbody/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 23:51:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 03:19:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/robotbody/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://www.kcrw.com/@@search?q=tod+mesirow</p>]]></description>
+            <link>https://thegrid.ai/robotbody/2d840f03-2510-4230-a19b-cbab6d0dd808/index.html</link>
+            <guid isPermaLink="false">2d840f03-2510-4230-a19b-cbab6d0dd808</guid>
+            <pubDate>Thu, 18 Feb 2016 03:12:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>the car world</p>]]></description>
-            <link>undefined3393519f-88ef-4d89-a429-de2b3b74f3fd/index.html</link>
+            <link>https://thegrid.ai/robotbody/3393519f-88ef-4d89-a429-de2b3b74f3fd/index.html</link>
             <guid isPermaLink="false">3393519f-88ef-4d89-a429-de2b3b74f3fd</guid>
             <pubDate>Wed, 17 Feb 2016 23:51:21 GMT</pubDate>
         </item>
